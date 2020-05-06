@@ -7,5 +7,6 @@ public class demo {
         for (int i = 0; i < 10; i++){
             System.out.println(i);
         }
+        System.out.println("欢迎小白加入");
     }
 }
