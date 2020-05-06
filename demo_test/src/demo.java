@@ -7,5 +7,6 @@ public class demo {
             System.out.println(i);
         }
         System.out.println("欢迎小白加入");
+        System.out.println("true");
     }
 }
