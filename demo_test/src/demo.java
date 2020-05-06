@@ -8,5 +8,6 @@ public class demo {
         }
         System.out.println("欢迎小白加入");
         System.out.println("第一天");
+        System.out.println("第2天");
     }
 }
